@@ -48,9 +48,9 @@ By making environmental action measurable, achievable, and rewarding, EcoTrack t
 
 ## 🔗 Links
 
-**GitHub Repository:** [Coming Soon - Will be published]
+**GitHub Repository:** https://github.com/michaelkitheka123/ecotrack
 
-**Live Demo:** [Coming Soon - Deployment in progress]
+**Live Demo:** https://michaelkitheka123.github.io/ecotrack/
 
 **Project Location:** `c:\Users\victor\Desktop\aethra`
 
@@ -61,7 +61,7 @@ By making environmental action measurable, achievable, and rewarding, EcoTrack t
 **Team Type:** Solo Developer
 
 **Developer:**
-- **Name:** Victor
+- **Name:** Michael Kitheka
 - **Role:** Full-Stack Developer
 - **Responsibilities:** 
   - Application architecture and design
@@ -71,7 +71,7 @@ By making environmental action measurable, achievable, and rewarding, EcoTrack t
   - Data modeling and state management
   - Testing and deployment
 
-**Development Timeline:** November 2024 - Present
+**Development Timeline:** November 26-29, 2024 (3 days)
 
 ---
 
